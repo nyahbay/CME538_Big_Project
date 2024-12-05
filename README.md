@@ -8,10 +8,9 @@ This project aims to predict the outcomes of European football matches by levera
 3. ```_Feature_Engineering.ipynb```
 4. ```_EDA.ipynb```
 5. ```_Data_Cleaning.ipynb```
-6. ```.ipynb```
+6. ```_PCA_Training.ipynb```
 7. ```_Model_Utilization_For_Last_Seasos.ipynb```
-8. ```.ipynb```
-9. ```_Model_Utilization_For_Last_Seasos.ipynb```
+8. ```_Model_Utilization_For_Last_Seasos.ipynb```
 
 **Link to Medium Article:**
 https://medium.com/@fion.ouyang/df6bea2429ec
