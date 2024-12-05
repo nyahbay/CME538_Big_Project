@@ -15,6 +15,14 @@ This project aims to predict the outcomes of European football matches by levera
 **Link to Medium Article:**
 https://medium.com/@fion.ouyang/df6bea2429ec
 
+**Attribution Table**  
+
+| People  | Contribution |
+| :---:   | :---: |
+Fion Ouyang | Data Merging & Cleaning 
+Nyah Bay | Feature engineering & EDA
+Nanqiao Du | Model selection & Web Scraping & PCA
+Mohammad Khosravi | hyperparameter tuning & Further tests 
 
 
 
